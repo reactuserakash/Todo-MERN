@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>⭐ ToDO web app with MERN stack ⭐<br>
+  <br>⭐ ToDo web app with MERN stack ⭐<br>
 </h1>
 <p align="center">
   <!-- Licence -->
@@ -28,3 +28,23 @@
       alt="Build" />
   </a>
 </p>
+
+<h4 align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://github.com/reactuserakash">Akash Debnath</a>
+</h4>
+  
+This web app is made with MERN stack. It combines React, Dudux, Node, Expsess, MongoDB.
+
+<h3>Console view</h3>
+<p align="center">
+  <img alt="Spaceship with Hyper and One Dark" src="./console.png" width="780px" height="auto">
+</p>
+
+<h3>Redux view</h3>
+<p align="center">
+  <img alt="Spaceship with Hyper and One Dark" src="./redux.png" width="780px" height="auto">
+</p>
+
+
+.
