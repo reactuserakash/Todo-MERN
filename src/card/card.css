@@ -1,0 +1,37 @@
+li {
+    list-style: none;
+}
+
+
+.Card {
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 3px;
+    display: grid;
+    grid-template-columns: 70% 10% 10% 10%;
+}
+.name {
+    margin: 0;
+    margin-left: 10px;
+    text-align: left;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.name-strik {
+    margin: 0;
+    margin-left: 10px;
+    text-align: left;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: line-through;
+}
+
+.button-icons {
+    cursor: pointer;
+    margin: auto;
+    height: 20px;
+    width: auto;
+}

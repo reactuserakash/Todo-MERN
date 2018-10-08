@@ -1,0 +1,46 @@
+.App {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.header {
+  text-align: left;
+  width: 70%;
+  margin: auto;
+  font-size: 20px;
+  color: #fff;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.Todolist {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.input-box {
+  color: #fff;
+  font-size: 20px;
+  padding: 5px 10px;
+  outline: none;
+  border:  none;
+  border-bottom: 2px solid #fff;
+  background-color: transparent;
+}
+::placeholder {
+  color: #fff;
+}
+
+.addTodo {
+  cursor: pointer;
+  color: #fff;
+  margin-left: 10px;
+  outline: none;
+  border: none;
+  background-color: #34a0df;
+  border: 2px solid #fff;
+  font-size: 20px;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
