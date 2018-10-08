@@ -1,3 +1,6 @@
+<h1 align="center">
+  <br>⭐ ToDO web app with MERN stack ⭐<br>
+</h1>
 <p align="center">
   <!-- Licence -->
     <a href="https://github.com/facebook/react/blob/master/LICENSE">
@@ -11,7 +14,7 @@
   </a>
   <!-- NPM Version -->
     <a href="https://npmjs.org">
-    <img src="https://img.shields.io/badge/npm-v5.6.0-red.svg?style=flat"
+    <img src="https://img.shields.io/badge/npm-v6.4.0-red.svg?style=flat"
       alt="NPM Version" />
   </a>
   <!-- React Version -->
