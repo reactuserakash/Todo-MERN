@@ -35,6 +35,7 @@
 </h4>
   
 This web app is made with MERN stack. It combines React, Dudux, Node, Expsess, MongoDB.
+Fork and contribute in this if you wish. Just change the db path in package.json file 
 
 <h3>Console view</h3>
 <p align="center">
