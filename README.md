@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>⭐ ToDo web app with MERN stack ⭐<br>
+  <br>⭐ ToDo Web App with MERN stack ⭐<br>
 </h1>
 <p align="center">
   <!-- Licence -->
