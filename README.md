@@ -3,7 +3,7 @@
 </h1>
 <h4 align="center">
   <sub>Built with ❤︎ by
-  <a href="https://github.com/noobcoder17">Akash Debnath</a>
+  <a href="https://github.com/noobcoder17">Reactusr Akash</a>
 </h4>
   
 This web app is made with MERN stack. It combines React, Dudux, Node, Expsess, MongoDB.
